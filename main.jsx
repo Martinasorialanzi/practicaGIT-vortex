@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hola = () => {
   return (
-    <p>Hola cambio1</p>
+    <p>Hola cambio2 cambio1</p>
   )
 }
 
